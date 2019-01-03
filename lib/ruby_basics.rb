@@ -23,5 +23,5 @@ words = "expert"
 end
 
 def pizza_party
-
+words = "cheese"
 end
