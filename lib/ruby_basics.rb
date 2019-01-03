@@ -22,6 +22,6 @@ def last_evaluated_value
 words = "expert"
 end
 
-def pizza_party
-words = "cheese"
+def pizza_party(words = "cheese")
+words
 end
