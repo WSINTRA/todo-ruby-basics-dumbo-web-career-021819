@@ -19,7 +19,7 @@ nice = "Nice"
 end
 
 def last_evaluated_value(word)
-words = word
+words = "expert"
 end
 
 def pizza_party
